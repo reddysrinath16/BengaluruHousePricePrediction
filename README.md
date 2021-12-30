@@ -3,10 +3,10 @@
 #### Checkout the Data Analysis - https://github.com/reddysrinath16/BengaluruHousePricePrediction/blob/main/model/BengaluruHousePricePrediction.ipynb
 
 ## APP OVER VIEW 
-![](TASK.gif)
+-![](TASK.gif)
 
 
-
+### Steps
 <b>Sslect</b> - Number of Rooms and Number of Bathroom
 <b>Select</b> - Area from a particular list of Areas
 <b>Click On</b> - Estimated Price in order to predict the price from the EXISTING Data Available(Trained Model)
