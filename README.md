@@ -1,6 +1,6 @@
 # BengaluruHousePricePrediction
-### Building a Model to Predict the Price of the House in a Bangalore 
-#### Checkout the Data Analysis - shorturl.at/wEIM8
+### Building a Model to Predict the Price of the House in a Bangaluru
+#### Checkout the Data Analysis - https://github.com/reddysrinath16/BengaluruHousePricePrediction/blob/main/model/BengaluruHousePricePrediction.ipynb
 
 
 <b>Sslect</b> - Number of Rooms and Number of Bathroom
