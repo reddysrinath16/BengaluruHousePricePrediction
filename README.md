@@ -3,9 +3,9 @@
 #### Checkout the Data Analysis - https://github.com/reddysrinath16/BengaluruHousePricePrediction/blob/main/model/BengaluruHousePricePrediction.ipynb
 
 ## APP OVER VIEW 
-https://github.com/reddysrinath16/BengaluruHousePricePrediction/blob/main/TASK.gif
-https://github.com/reddysrinath16/BengaluruHousePricePrediction/blob/main/List.png
-https://github.com/reddysrinath16/BengaluruHousePricePrediction/blob/main/Estimatedprice.png
+![](TASK.gif)
+![](List.png)
+![](Estimatedprice.png)
 
 
 <b>Sslect</b> - Number of Rooms and Number of Bathroom
