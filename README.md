@@ -4,8 +4,7 @@
 
 ## APP OVER VIEW 
 ![](TASK.gif)
-![](List.png)
-![](Estimatedprice.png)
+
 
 
 <b>Sslect</b> - Number of Rooms and Number of Bathroom
