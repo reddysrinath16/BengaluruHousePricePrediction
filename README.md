@@ -1,5 +1,5 @@
 # BengaluruHousePricePrediction
-### Building a Model to Predict the Price of the House in a Banglore 
+### Building a Model to Predict the Price of the House in a Bangalore 
 #### Checkout the Data Analysis - shorturl.at/wEIM8
 
 
